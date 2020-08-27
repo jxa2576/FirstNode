@@ -1,4 +1,4 @@
-const message = 'Hello other file';
+const message = 'Hello heroku';
 
 const getMessage = () => {
     console.log(message);
